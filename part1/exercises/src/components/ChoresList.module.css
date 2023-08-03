@@ -3,6 +3,8 @@
    font: roboto;
    font-size: 22px;
    font-style: italic;
+   text-align: left;
+   padding-left: 10px;
 }
 
 .choresHeading {
@@ -10,4 +12,6 @@
    font: roboto;
    text-decoration: underline;
    font-size: 28px;
+   text-align: left;
+   padding-left: 10px;
 }
