@@ -1,0 +1,31 @@
+{"projects": [{
+    "title": "Throne of Glass", 
+    "author": "Sarah J. Maas", 
+    "genre": "fantasy",
+    "booksInSeres": "7"
+}, 
+{
+    "title": "A Court of Thornes and Roses", 
+    "author": "Sarah J. Maas", 
+    "genre": "fantasy",
+    "booksInSeres": "4"
+}, 
+{
+    "title": "Crescent City", 
+    "author": "Sarah J. Maas", 
+    "genre": "fantasy",
+    "booksInSeres": "2"
+}, 
+{
+    "title": "What Lies Beyond the Veil", 
+    "author": "Harper L. Woods", 
+    "genre": "fantasy",
+    "booksInSeres": "2"
+}, 
+{
+    "title": "From Blood and Ash", 
+    "author": "Jennifer L. Armentrout", 
+    "genre": "fantasy",
+    "booksInSeres": "6"
+} 
+]}
