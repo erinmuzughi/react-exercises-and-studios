@@ -44,4 +44,5 @@
 
 .imageUpdates {
   object-fit: contain;
+  max-width: 300px;
 }
