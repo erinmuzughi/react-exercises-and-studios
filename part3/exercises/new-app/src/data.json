@@ -1,31 +1,31 @@
 {"projects": [{
     "title": "Throne of Glass", 
     "author": "Sarah J. Maas", 
-    "genre": "fantasy",
-    "booksInSeres": "7"
+    "photoURL": "https://m.media-amazon.com/images/I/81DW1r3CIwL._AC_UF1000,1000_QL80_.jpg",
+    "alt": "Throne of Glass book cover"
 }, 
 {
     "title": "A Court of Thornes and Roses", 
     "author": "Sarah J. Maas", 
-    "genre": "fantasy",
-    "booksInSeres": "4"
+    "photoURL": "https://target.scene7.com/is/image/Target/GUEST_d6cadb81-07cf-4510-94c5-df0b12905fc7",
+    "alt": "A Court of Thornes and Roses Book cover"
 }, 
 {
     "title": "Crescent City", 
     "author": "Sarah J. Maas", 
-    "genre": "fantasy",
-    "booksInSeres": "2"
+    "photoURl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-10/20/20/asset/23c274a1df74/sub-buzz-4999-1666298251-17.png?downsize=600:*&output-format=auto&output-quality=auto",
+    "alt": "Crescent City Book Cover"
 }, 
 {
     "title": "What Lies Beyond the Veil", 
     "author": "Harper L. Woods", 
-    "genre": "fantasy",
-    "booksInSeres": "2"
+    "photoURL": "https://img.buzzfeed.com/buzzfeed-static/static/2022-10/20/20/asset/22a50f3442bc/sub-buzz-5305-1666298110-10.png?downsize=600:*&output-format=auto&output-quality=auto",
+    "alt": "What Lies Beyond the Veil Book Cover"
 }, 
 {
     "title": "From Blood and Ash", 
     "author": "Jennifer L. Armentrout", 
-    "genre": "fantasy",
-    "booksInSeres": "6"
+    "photoURL": "https://img.buzzfeed.com/buzzfeed-static/static/2022-10/20/20/asset/afeb4ae4401d/sub-buzz-5047-1666297957-14.png?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+    "alt": "From Blood and Ash Book Cover"
 } 
 ]}
